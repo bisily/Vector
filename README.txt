@@ -12,3 +12,5 @@ Step 3) Run Linghting.exe file
 
 
 Rotate is Move the Mouse
+
+Picking the Object
