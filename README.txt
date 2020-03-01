@@ -8,11 +8,8 @@ Step 3) Run Linghting.exe file
 # How to Play the Game
 
   ↑          w
-← ↓ →     a  s  d
-
-
-Rotate is Move the Mouse
-
-And Rotate Lock is right clicked
-
-left click is Picking the Object
+← ↓ →     a  s  d    
+    
+Rotation: move your mouse.     
+Rotation Lock: click your mouse right button.     
+Object Picking: click your mouse left button.     
