@@ -9,14 +9,14 @@ Step 3) Run Linghting.exe file
 
 ## How to Play the Game
 
-↑    w    
-←    a    
-↓    s    
-→    d    
-    
 <div>
-    <img width="150" src="https://user-images.githubusercontent.com/19402132/77669370-010d1b80-6fc8-11ea-9fc7-a60ebd71cc7f.png">
-</div>    
+    <img width="150" src="https://user-images.githubusercontent.com/19402132/77669370-010d1b80-6fc8-11ea-9fc7-a60ebd71cc7f.png">    
+</div>
+
+    ↑    w    
+    ←    a    
+    ↓    s    
+    →    d    
     
 - Rotation: move your mouse.     
 - Rotation Lock: click your mouse right button.     
