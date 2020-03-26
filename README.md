@@ -10,7 +10,7 @@ Step 3) Run Linghting.exe file
 ## How to Play the Game
 
 <div>
-    <img width="150" src="https://user-images.githubusercontent.com/19402132/77669370-010d1b80-6fc8-11ea-9fc7-a60ebd71cc7f.png">    
+    <img width="150" src="https://user-images.githubusercontent.com/19402132/77670893-27cc5180-6fca-11ea-9457-eb1317ee4d87.png">    
 </div>
 
     ↑    w    
@@ -18,9 +18,18 @@ Step 3) Run Linghting.exe file
     ↓    s    
     →    d    
     
+<div>
+    <img width="150" src="https://user-images.githubusercontent.com/19402132/77670887-269b2480-6fca-11ea-9687-7e4808038ad2.png">
+</div>    
+
 - Rotation: move your mouse.     
-- Rotation Lock: click your mouse right button.     
 - Object Picking: click your mouse left button.     
+
+<div>
+    <img width="150" src="https://user-images.githubusercontent.com/19402132/77670891-2733bb00-6fca-11ea-8dbb-32ce949a2063.png">
+</div>
+
+- Rotation Lock: click your mouse right button.     
 
 
 <div>
