@@ -33,7 +33,7 @@ Step 3) Run Linghting.exe file
 
 
 <div>
-    <img width="100" src="https://user-images.githubusercontent.com/19402132/77669828-b7710080-6fc8-11ea-8d69-6733c23ea6c4.png">
+    <img width="100" src="https://user-images.githubusercontent.com/19402132/77671262-ade89800-6fca-11ea-9851-2df33759e092.png">
 </div>
 
 - To click this button then exited application
